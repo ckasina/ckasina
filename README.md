@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Charles Kasina and I'm an aspiring Software Engineer :)</h2>
 
 ###
 
